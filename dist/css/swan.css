@@ -104,7 +104,6 @@
     min-height: 0; }
     ul.menu-nav.show,
     div.menu-branding.show {
-      transform: translate3d(0, 0, 0);
       transform: translate3d(0, 0, 0); }
   .menu-nav {
     height: 75vh;
